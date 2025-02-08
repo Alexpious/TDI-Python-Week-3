@@ -6,40 +6,28 @@ This project focuses on advancing Python skills by handling files, working with 
 
 Topics Covered
 
-File Handling (Reading & Writing Files, CSV Operations)
+- File Handling (Reading & Writing Files, CSV Operations)
 
-NumPy Basics (Arrays, Operations, Indexing, Random Data)
+- NumPy Basics (Arrays, Operations, Indexing, Random Data)
 
-Titanic Dataset Analysis (Fare Statistics, Survival Rate, Class-Based Survival)
+- Titanic Dataset Analysis (Fare Statistics, Survival Rate, Class-Based Survival)
 
 Assignment Highlights
 
-Read and write text files
+- Read and write text files
 
-Load and analyze CSV data
+- Load and analyze CSV data
 
-Perform NumPy operations on arrays
+- Perform NumPy operations on arrays
 
-Extract insights from the Titanic dataset
+- Extract insights from the Titanic dataset
 
 Dataset
-
 Titanic Dataset – Contains passenger details such as age, class, fare, and survival status.
 
-Technologies Used
-
-Python
-
-Pandas
-
-NumPy
-
-CSV Module
 
 Results
 
-Analyzed fare statistics (min, max, mean)
-
-Calculated survival rates per class
-
-Used NumPy for array manipulation and indexing
+- Analyzed fare statistics (min, max, mean)
+- Calculated survival rates per class
+-Used NumPy for array manipulation and indexing
